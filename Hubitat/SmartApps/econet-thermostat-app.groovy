@@ -140,7 +140,7 @@ def refresh() {
             }
         }
 
-  }  }
+  }
 }
 
 def setCoolSetPoint(childDevice, coolsetpoint) { 
